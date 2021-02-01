@@ -1,0 +1,24 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "a pokedex using js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/santiespindd/pokedex-js.git"
+  },
+  "author": "Santi Espindd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/santiespindd/pokedex-js/issues"
+  },
+  "homepage": "https://github.com/santiespindd/pokedex-js#readme",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
